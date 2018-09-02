@@ -1,0 +1,14 @@
+.App {
+    width: 390px;
+    margin: 0 auto;
+    margin-top: 80px;
+    user-select: none;
+}
+.done {
+    text-decoration: line-through;
+    color: #ccc;
+}
+.ant-list-item-content-single{
+    justify-content: space-between;
+    cursor: pointer;
+}
